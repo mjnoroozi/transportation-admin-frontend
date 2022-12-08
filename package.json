@@ -1,6 +1,8 @@
 {
   "name": "transportation-admin-frontend",
   "version": "0.0.0",
+  "author": "Javad Noroozi <mjnoroozi.me@gmail.com> (https://github.com/mjnoroozi)",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -17,5 +19,6 @@
     "@vitejs/plugin-vue": "^3.0.3",
     "vite-plugin-vuetify": "^1.0.0-alpha.12",
     "vite": "^3.1.9"
-  }
+  },
+  "license": "UNLICENSED"
 }
