@@ -1,0 +1,8 @@
+@import "./fonts.css";
+
+* {
+  font-family: iranSans !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  letter-spacing: 0 !important;
+}
