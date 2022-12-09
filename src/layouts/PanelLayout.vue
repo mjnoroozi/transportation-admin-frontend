@@ -34,7 +34,6 @@ const menuItems = [
 const appBarTitle = computed(() => {
   const currPath = route.path.toLowerCase();
   const found = menuItems.find((item) => item.path === currPath);
-
   return found.title;
 });
 </script>
